@@ -7,4 +7,4 @@ below then 50 seconds.
 Copy the code and paste in into the console. Make sure you have the console open all the time!
 Enjoy
 
-**Note: This only works for the Dutch-translated Instagram web.**
+**Note: This only works for the Dutch-translated Instagram web. Oh and I made this like back in mid 2019**
